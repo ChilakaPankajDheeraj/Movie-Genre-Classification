@@ -1,4 +1,12 @@
 
+## Author
+
+Name: Chilaka Pankaj Dheeraj
+Intern ID: CITS9471
+Internship: Machine Learning Internship
+Duration (weeks): 12 weeks
+Project: Movie Genre Classification
+
 # Movie Genre Classification
 
 ## Project Overview
@@ -82,11 +90,3 @@ The model is evaluated using:
 The dataset is synthetic and intended for educational
 demonstration. Performance on real-world movie descriptions
 may differ significantly.
-
-## Author
-
-Name: [Your Full Name]
-
-Internship: Machine Learning Internship
-
-Project: 4 - Movie Genre Classification

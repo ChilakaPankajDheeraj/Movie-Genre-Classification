@@ -1,11 +1,10 @@
 
 # Author
 
-Name: Chilaka Pankaj Dheeraj
-Intern ID: CITS9471
-Internship: Machine Learning Internship
-Duration (weeks): 12 weeks
-Project: Movie Genre Classification
+**Internship project:** Machine Learning  
+**Intern ID:** `CITS9471`  
+**Full name:** `Chilaka Pankaj Dheeraj`  
+**Duration (weeks):** `12 weeks`  
 
 # Movie Genre Classification
 
